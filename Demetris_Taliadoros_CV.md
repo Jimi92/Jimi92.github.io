@@ -10,10 +10,9 @@ categories: media
 
 ## Demetris Taliadoros
 Environmental Genomics Group, Max Planck Institute for Evolutionary Biology, Ploen, Germany
-Email: taliadoros@evolbio.mpg.de 				Nationality: Cypriot
-Phone: +357 99 803045 					Home Town: Aglantzia
-Github: https://github.com/Jimi92				Current residence: Plön, Germany
---------------------------------------------------------------------------------------------------------------------------------------
+Email: taliadoros@evolbio.mpg.de 
+Github: https://github.com/Jimi92	
+------------------------------------------------------------------------------------------------------
 ## Research experience
 Ph.D. research, Environmental Genomics Group, Max Planck Institute for Evolutionary Biology (2020-2023)
 •	Investigating the genetic basis of local adaptation and host specialization of plant pathogenic fungi
