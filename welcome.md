@@ -5,8 +5,6 @@ layout: post
 categories: media
 ---
 
-![Swiss Alps](https://cdn.britannica.com/18/240418-050-38F9D3A5/plasterer-bee-Colletes-daviesanus.jpg)
-
 
 ## About me
 
