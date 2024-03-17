@@ -16,6 +16,7 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
+  - {title: "Demetris Taliadoros"}
   - {file: "index.html", title: "Home", icon: home}
   - {file: "Demetris_Taliadoros_CV.pdf", title: "About Demetris"}
   - {file: "README.md", title: "Publications", icon: book}
