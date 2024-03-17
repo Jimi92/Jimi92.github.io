@@ -29,7 +29,9 @@ Ph.D. research, Environmental Genomics Group, Max Planck Institute for Evolution
 
 ## Relevant skills
 •	Strong foundation in population genetics
+
 •	Proficient in next-generation sequence analysis
+
 •	Experienced in awk, R, and python
 
 ## Teaching experience
