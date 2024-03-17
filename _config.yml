@@ -18,13 +18,15 @@ minimal: false             # use a dark header
 navigation:                # accepts {file, title, url, icon, sidebaricon}
 
   - {file: "index.html", title: "Home", icon: home}
-  - {file: "Demetris_Taliadoros_CV.md", title: "About Demetris"}
+  - {file: "Demetris_Taliadoros_CV.md", title: "About Demetris", icon: user}
   - {file: "README.md", title: "Publications", icon: book}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:demetris.taliadwros@gmail.com"}
   - {title: Github, icon: github, url: "https://github.com/Jimi92"}
-  - {title: X, icon: X, url: "https://twitter.com/DTaliadoros"}
+  - {title: X, icon: twitter, url: "https://twitter.com/DTaliadoros"}
+  - {title: Current group, icon: bug, url: "https://www.websterlab.net/about"}
+  - {title: Uppsala University, icon:  university, url: "https://www.katalog.uu.se/profile/?id=N24-462"}
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
 #  isso_domain: ""         # see https://posativ.org/isso/
