@@ -17,7 +17,7 @@ minimal: false             # use a dark header
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
 
-  - {file: "index.html", title: "General info", icon: home}
+  - {file: "index.html", title: "Home", icon: home}
   - {file: "index2.html", title: "What's new", icon: flask}
   - {file: "Demetris_Taliadoros_CV.md", title: "About Demetris", icon: user}
   - {file: "README.md", title: "Publications", icon: book}
