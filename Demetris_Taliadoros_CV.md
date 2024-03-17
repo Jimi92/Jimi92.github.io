@@ -10,7 +10,9 @@ categories: media
 
 ## Demetris Taliadoros
 Environmental Genomics Group, Max Planck Institute for Evolutionary Biology, Ploen, Germany
+
 Email: taliadoros@evolbio.mpg.de 
+
 Github: https://github.com/Jimi92	
 ------------------------------------------------------------------------------------------------------
 ## Research experience
