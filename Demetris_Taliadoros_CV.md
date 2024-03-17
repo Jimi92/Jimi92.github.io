@@ -1,5 +1,5 @@
 ---
-title:  "Dr. Taliadoros"
+title:  "Short CV Dr. Taliadoros"
 mathjax: true
 layout: post
 categories: media
