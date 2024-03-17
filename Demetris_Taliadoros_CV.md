@@ -18,9 +18,13 @@ Github: https://github.com/Jimi92
 ------------------------------------------------------------------------------------------------------
 ## Research experience
 Ph.D. research, Environmental Genomics Group, Max Planck Institute for Evolutionary Biology (2020-2023)
+
 •	Investigating the genetic basis of local adaptation and host specialization of plant pathogenic fungi
+
 •	Inferring demographic histories of different fungal plant pathogen populations using simulation-based (e.g., ABC) and Sequential Markov coalescence algorithms
+
 •	Identifying genomic regions evolving under strong directional selection through genomic scans for selective sweep signatures within and between populations 
+
 •	Identifying genomic features relevant for local adaptation, located in selective sweep regions
 
 ## Relevant skills
@@ -31,25 +35,41 @@ Ph.D. research, Environmental Genomics Group, Max Planck Institute for Evolution
 ## Teaching experience
 2021-2022: Population Genomics (biol-244), Christian Albrechts University of Kiel, Kiel, Germany
 Responsibilities:
+
 •	Guide students through practical exercises using state-of-art population genomic software and packages on the terminal and in R
+
 •	Lecture on genetic effects of population structure: A summary of concepts and tools.
 2021-2023: Supervision of internships, BSc, and MSc projects 
+
 •	Rune Sommerkamp (2022, Inter): Presence/absence variation as an indicator of the demographic history and selection in different plant pathogens
+
 •	Rebekah Jolicoeur (2021, Intern): Host-driven divergence of Cercospora beticola populations in the UK. The case of crop-specialized lineages
 
 
 
 
 ## Education
-2020-2023: (anticipated):	Ph.D. Evolutionary biology, Kiel University, Kiel, Germany
+2020-2023:	Ph.D. Evolutionary biology, Kiel University, Kiel, Germany
+
+
 2016-2019:			M.Sc. Biology, Wageningen University, Netherlands
+
 •	Specialization: Biodiversity and Evolution
+
 •	Dissertation: Population genomics and local adaptation of barley net blotch agent, Pyrenophora teres
+
+
 2016-2019:	M.Sc. Forest and Nature Conservation, Wageningen, Netherlands
+
 •	Specialization: Ecology
+
 •	Dissertation: Life history traits of Nasonia vitripennis: The interplay of larval competition, sex ratio, and emergence time
+
+
 2012-2016:	B.Sc. Agricultural Sciences, Biotechnology, and Food Science Cyprus University of Technology
+
 •	Specialization: Plant Science and Technology
+
 •	Dissertation: Identification and control of nematodes in Cypriot banana plantations. Assessment of a novel nematicide 
 
 ## Referees
