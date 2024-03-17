@@ -1,5 +1,5 @@
 ---
-title:  "Hello world"
+title:  "Dr. Taliadoros"
 mathjax: true
 layout: post
 categories: media
