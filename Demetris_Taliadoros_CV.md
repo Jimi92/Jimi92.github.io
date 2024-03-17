@@ -14,6 +14,7 @@ Environmental Genomics Group, Max Planck Institute for Evolutionary Biology, Plo
 Email: taliadoros@evolbio.mpg.de 
 
 Github: https://github.com/Jimi92	
+
 ------------------------------------------------------------------------------------------------------
 ## Research experience
 Ph.D. research, Environmental Genomics Group, Max Planck Institute for Evolutionary Biology (2020-2023)
