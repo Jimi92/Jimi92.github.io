@@ -1,6 +1,6 @@
 title: "Demetris Taliadoros"
 author: "Demetris Taliadoros"
-description: "Uppsala University"
+description: "Bee evolution @ Uppsala University"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -17,7 +17,7 @@ minimal: false             # use a dark header
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.html", title: "Home", icon: home}
-  - {file: "README.md", title: "Demetris", icon: man}
+  - {file: "README.md", title: "Demetris", icon: person}
   - {file: "README.md", title: "Publications", icon: book}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
