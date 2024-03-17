@@ -1,99 +1,15 @@
 ---
-title: "About"
-permalink: "/about/"
+title: "Publications"
+permalink: "/publications/"
 layout: page
 ---
 
-## Installation
+1.	Taliadoros D, Stukenbrock EH. The use of evolutionary analyses to predict functionally relevant traits in filamentous plant pathogens. Curr Opin Microbiol. 2023;73:102244.
 
-Just fork this [repository](https://github.com/niklasbuschmann/contrast) and adjust the `_config.yml` to use with [Github Pages](https://pages.github.com/) and your page is done.
+2.	Spanner R, Taliadoros D, Richards J, Rivera-Varas V, Neubauer J, Natwick M, et al. Genome-Wide Association and Selective Sweep Studies Reveal the Complex Genetic Architecture of DMI Fungicide Resistance in Cercospora beticola. Genome Biol Evol. 2021;13(9):1–17. 
 
-## Features
+3.	Ebert MK, Rangel LI, Spanner RE, Taliadoros D, Wang X, Friesen TL, et al. Identification and characterization of Cercospora beticola necrosis-inducing effector CbNip1. Vol. 22, Molecular Plant Pathology. 2021. p. 301–16. 
 
- - supports dark mode on macOS Mojave
- - optional sidebar
- - MathJax support
- - no external ressources
- - included archive page
- - supports pagination
- - feed generation
- - responsive
- - syntax highlighting
- - supports comments via [disqus](https://disqus.com/) or [isso](http://posativ.org/isso/)
+4.	Kanetis LI, Taliadoros D, Makris G, Christoforou M. A Novel Seimatosporium and Other Sporocadaceae Species Associated with Grapevine Trunk Diseases in Cyprus. Plants. 2022 Oct 1;11(20). 
 
-## Based on
-
-- [Hyde](https://github.com/poole/hyde)
-- [Minima](https://github.com/jekyll/minima)
-- [Lagrange](https://github.com/LeNPaul/Lagrange)
-- [Font Awesome](http://fontawesome.io/)
-- [KaTeX](https://katex.org/)
-- [Pygments](https://github.com/richleland/pygments-css)
-
-## Installation (jekyll-remote-theme method)
-
-You can use this theme with the `jekyll-remote-theme` plugin. Just create an empty repo, copy over the `index.html` file and add this to your `_config.yml`:
-
-```yaml
-remote_theme: niklasbuschmann/contrast@v2.11
-
-plugins:
-  - jekyll-remote-theme
-```
-
-Note: to enable icons you also need to copy over the `_data` folder.
-
-## Config
-
-Your `_config.yml` could for example look like this:
-
-```yaml
-title: "Blog Title"
-author: "Blog Author"
-description: "My personal blog about ... something"
-permalink: /:title/
-lang: "en"
-excerpt_separator: "\n\n\n"
-date_format: "%B %d, %Y"
-
-# Layout
-
-show_excerpts: true        # show article excerpts on the home page
-show_frame: true           # adds a gray frame to the site
-show_sidebar: false        # show a sidebar instead of the usual header
-
-# Menu
-
-navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "index.html"}
-  - {file: "README.md"}
-
-external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "mailto:niklasbuschmann@users.noreply.github.com"}
-  - {title: Github, icon: github, url: "https://github.com/niklasbuschmann/contrast"}
-  - {title: Subscribe, icon: rss, url: "/feed.xml"}
-
-comments:
-#  disqus_shortname: ""    # see https://disqus.com/
-#  isso_domain: ""         # see https://posativ.org/isso/
-
-plugins:
- - jekyll-feed
-
-```
-
-## MathJax
-
-Contrast comes preinstalled with a leightweight alternative to MathJax called [KaTeX](https://katex.org/). To display equations in a post simply set `mathjax: true` in the article's front matter.
-
-## License
-
-[public domain](http://unlicense.org/)
-
-## Screenshots
-
-![screenshot](https://user-images.githubusercontent.com/4943215/109431850-cd711780-7a08-11eb-8601-2763f2ee6bb4.png)
-
-![screenshot](https://user-images.githubusercontent.com/4943215/109431832-b6cac080-7a08-11eb-9c5e-a058680c23a1.png)
-
-![screenshot](https://user-images.githubusercontent.com/4943215/73125194-5f0b8b80-3fa4-11ea-805c-8387187503ad.png)
+5.	Taliadoros D, Feurtey A, Wyatt N, Gladieux P, Friesen T, Stukenbrock H. E. Emergence and spread of the barley net blotch pathogen coincided with crop domestication and cultivation history. Available from: https://doi.org/10.1101/2023.07.28.550921 (under peer-review)
