@@ -74,10 +74,6 @@ Responsibilities:
 
 ## Referees
 
-1.	Prof. Dr. Eva Stukenbrock, Environmental Genomics Group, Max Planck Institute for Evolutionary Biology, Ploen and Christian Alrbechts University, Kiel, Germany, (Ph.D. advisor). email: stukenbrock@evolbio.mpg.de, Tel: +49 431 880 6368
-2.	Dr. Alice Feurtey, Laboratory of Evolutionary Genetics, Institute of Biology, University of Neuchâtel, CH-2000 Neuchâtel, and Plant Pathology, D-USYS, ETH Zurich, CH-8092 Zurich, Switzerland (M.Sc. daily supervisor). Email: alice.feurtey@usys.ethz.ch, Tel: +41 44 6323 871 
-
-Publications
 1.	Taliadoros D, Stukenbrock EH. The use of evolutionary analyses to predict functionally relevant traits in filamentous plant pathogens. Curr Opin Microbiol. 2023;73:102244.
 
 2.	Spanner R, Taliadoros D, Richards J, Rivera-Varas V, Neubauer J, Natwick M, et al. Genome-Wide Association and Selective Sweep Studies Reveal the Complex Genetic Architecture of DMI Fungicide Resistance in Cercospora beticola. Genome Biol Evol. 2021;13(9):1–17. 
@@ -86,4 +82,9 @@ Publications
 
 4.	Kanetis LI, Taliadoros D, Makris G, Christoforou M. A Novel Seimatosporium and Other Sporocadaceae Species Associated with Grapevine Trunk Diseases in Cyprus. Plants. 2022 Oct 1;11(20). 
 
-5.	Taliadoros D, Feurtey A, Wyatt N, Gladieux P, Friesen T, Stukenbrock H. E. Emergence and spread of the barley net blotch pathogen coincided with crop domestication and cultivation history. Available from: https://doi.org/10.1101/2023.07.28.550921 (under peer-review)
+5.	Taliadoros D, Feurtey A, Wyatt N, Gladieux P, Friesen T, Stukenbrock H. E. Emergence and spread of the barley net blotch pathogen coincided with crop domestication and cultivation history. PLOS Genetics. 2024 jan 29;20(1)
+
+6. Ramirez Martinez, J., Guillou, S., Le Prieur, S., Di Vittorio, P., Bonal, F., Taliadoros, D., ... & Gladieux, P. (2023). Deep population structure linked to host vernalization requirement in the barley net blotch fungal pathogen. bioRxiv, 2023-12.
+
+7. Taliadoros, D. (2024). Population and evolutionary genomics of two economically important fungal plant pathogens (Doctoral dissertation, Christian-Albrechts-Universität Kiel).	
+
