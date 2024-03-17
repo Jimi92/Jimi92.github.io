@@ -5,7 +5,6 @@ layout: post
 categories: media
 ---
 
+![Swiss Alps2](https://transevo.de/storage/305/conversions/PXL_20240111_115729426-lg.jpg)
 
-## About me
-
-My name is Demetris Taliadoros and I am an evolutionary biologist based at the Uppsala University in Sweden. Currently, I study the evolution of bumblebees and honey bee populations under rapid climate changes around the world
+Recently, I have successfully defended my PhD thesis, titled "Population and evolutionary genomics of two economically important fungal plant pathogens"
