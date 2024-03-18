@@ -12,7 +12,7 @@ My mane is Demetris and I am an evolutionary biologist based at Uppsala Universi
 Here you can follow updates on honey bee adaptation 
 
 
-![Sweet das](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTKmkaUP35Vjr5VNWri6GB-_oOXYNaPZ9135a_-XCZ_g&s)
+![Sweet das](https://cdn.britannica.com/18/240418-050-38F9D3A5/plasterer-bee-Colletes-daviesanus.jpg)
 
 ---------------------------------------------------------------------------
 
