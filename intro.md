@@ -1,5 +1,5 @@
 ---
-title:  "Short CV"
+title:  "Welcome to Demetris Taliadoros web page"
 mathjax: true
 layout: post
 categories: media
