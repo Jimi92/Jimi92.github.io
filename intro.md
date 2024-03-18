@@ -18,4 +18,4 @@ Here you can follow updates on honey bee adaptation
 
 ## Updates
 
-'r icon::fa("rocket")' [graduation](https://transevo.de/announcements)
+:newspaper: [graduation](https://transevo.de/announcements)
