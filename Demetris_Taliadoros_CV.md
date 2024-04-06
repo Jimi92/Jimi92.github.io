@@ -74,7 +74,7 @@ Responsibilities:
 
 •	Dissertation: Identification and control of nematodes in Cypriot banana plantations. Assessment of a novel nematicide 
 
-## Referees
+## publications
 
 1.	Taliadoros D, Stukenbrock EH. The use of evolutionary analyses to predict functionally relevant traits in filamentous plant pathogens. Curr Opin Microbiol. 2023;73:102244.
 
