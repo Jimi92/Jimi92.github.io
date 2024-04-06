@@ -1,6 +1,5 @@
 ---
 layout: post
-categories: media
 ---
 ## Demetris Taliadoros
 ### *Postdoctoral researcher*
