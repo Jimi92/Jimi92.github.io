@@ -16,4 +16,11 @@ layout: page
 
 6. Ramirez Martinez, J., Guillou, S., Le Prieur, S., Di Vittorio, P., Bonal, F., Taliadoros, D., ... & Gladieux, P. (2023). Deep population structure linked to host vernalization requirement in the barley net blotch fungal pathogen. bioRxiv, 2023-12.
 
-7. Taliadoros, D. (2024). Population and evolutionary genomics of two economically important fungal plant pathogens (Doctoral dissertation, Christian-Albrechts-Universität Kiel).	
+7. Taliadoros, D. (2024). Population and evolutionary genomics of two economically important fungal plant pathogens (Doctoral dissertation, Christian-Albrechts-Universität Kiel).
+
+
+ ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ # Preprints
+
+1. Ramirez Martinez, J., Guillou, S., Le Prieur, S., Di Vittorio, P., Bonal, F., Taliadoros, D., ... & Gladieux, P. (2023). Deep population structure linked to host vernalization requirement in the barley net blotch fungal pathogen. bioRxiv, 2023-12.
