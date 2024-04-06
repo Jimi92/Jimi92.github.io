@@ -15,4 +15,4 @@ My research interests encompass the study of local adaptation, host specializati
 
 &#127891; Recently, I successfully defended my Phd thesis, titled "Population and evolytionary genetics of two economically important fungal plant pathogens". It is publicly available [here](https://pure.mpg.de/rest/items/item_3573746_1/component/file_3573747/content)
 
-&#128214;
+&#128214; New publication in PLoS Genetics:[Emergence and spread of the barley net blotch pathogen coincided with crop domestication and cultivation history](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1010884)
