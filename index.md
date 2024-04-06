@@ -1,5 +1,6 @@
 ---
-title:  "Introduction"
+title:  "Demetris A. Taliadoros"
+subtitle: "Postdoctor"
 mathjax: true
 layout: post
 categories: media
