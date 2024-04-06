@@ -13,4 +13,5 @@ My research interests encompass the study of local adaptation, host specializati
 
 ## &#128478; News
 
-
+&#127891; Recently, I successfully defended my Phd thesis, titled "Population and evolytionary genetics of two economically important fungal plant pathogens". It is publicly available [here](https://pure.mpg.de/rest/items/item_3573746_1/component/file_3573747/content)
+&#128214;
