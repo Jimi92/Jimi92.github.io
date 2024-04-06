@@ -11,7 +11,7 @@ My research interests encompass the study of local adaptation, host specializati
 
 ------------------------------------------------------------------------------------------------------
 
-## News 📰
+## U+1F5DE News 📰
 
 
 &#x1F4F0;
