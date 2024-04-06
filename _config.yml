@@ -5,7 +5,7 @@ permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
 date_format: "%B %d, %Y"
-
+avatar: 
 # Layout
 
 show_excerpts: false        # show article excerpts on the home page
@@ -16,8 +16,7 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-
-  - {file: "intro.md", title: "My research", icon: home}
+  - {file: "index.md", title: "Home", icon: home}
   - {file: "Demetris_Taliadoros_CV.md", title: "About Demetris", icon: user}
   - {file: "README.md", title: "Publications", icon: book}
 
