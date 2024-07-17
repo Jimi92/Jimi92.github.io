@@ -1,12 +1,11 @@
 title: "Demetris Taliadoros (Postdoctoral researcher)"
 author: "Demetris Taliadoros"
-avatar: "44607500.jpeg"
+avatar: "prof.png"
 description: "Demetris Taliadoros works on Bee evolution @ Uppsala University"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
 date_format: "%B %d, %Y"
-avatar: /44607500.jpeg/
 # Layout
 
 show_excerpts: false        # show article excerpts on the home page
